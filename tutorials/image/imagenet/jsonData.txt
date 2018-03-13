@@ -1,0 +1,1 @@
+{"miniskirt, mini": "0.3605035", "carton": "0.09885344", "brassiere, bra, bandeau": "0.041885592", "bikini, two-piece": "0.039944667", "crate": "0.02053709"}
